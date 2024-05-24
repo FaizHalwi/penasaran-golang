@@ -1,0 +1,5 @@
+VARIABEL pada golang
+- tempat menyimpan data
+- tidak bisa 1 variabel type data nya berbeda-beda
+- hanya bisa 1 variabel 1 type data
+- kata kunci var

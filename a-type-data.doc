@@ -1,0 +1,12 @@
+type data NUMBER pada golang
+- INTEGER
+- FLOATING POINT
+
+type data BOOLEAN pada golang
+- benar / salah
+- kata kunci untuk golang yaitu bool
+
+type data STRING pada golang
+- kata kunci yaitu string 
+- di awali " dan di akhiri "
+- string kosong pun boleh ""
